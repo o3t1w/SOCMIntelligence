@@ -1,24 +1,24 @@
 ![Home](https://user-images.githubusercontent.com/98583912/206911044-3ac41b72-76b9-4da9-bc7b-73a9471a04fc.gif)
 
-|**INDICE**||||
+|**INDEX**||||
 | :--- | :--- | :--- | :--- |
-|**Social Media**|[**Strumenti Multi Social**](https://github.com/CScorza/SOCMIntelligence#strumenti-di-ricerca-multi-social)|[**Strumenti Online**](https://github.com/CScorza/SOCMIntelligence#strumenti-online)|[**Strumenti da Terminale**](https://github.com/CScorza/SOCMIntelligence#ricerca-da-terminale)|
-|**E - Mail**|[**RIcerca profili tramite Email**](https://github.com/CScorza/SOCMIntelligence#ricerca-tramite-email)||
-|[**Fonti e Libri**](https://github.com/CScorza/SOCMIntelligence#fonti-e-libri)||||
+|**Social Media**|[**Multi Social Tools**](https://github.com/CScorza/SOCMIntelligence#multi-social-research-tools)|[**Online Tools**]( https://github.com/CScorza/SOCMIntelligence#online-tools)|[**Terminal tools**](https://github.com/CScorza/SOCMIntelligence#terminal-search)|
+|**E - Mail**|[**Search profiles via Email**](https://github.com/CScorza/SOCMIntelligence#search-via-email)||
+|[**Sources and Books**](https://github.com/CScorza/SOCMIntelligence#sources-and-books)||||
 
 ```
-Nel Social Media Intelligence (SOCMINT) è possibile monitorare reti e canali sociali 
-per identificare profili, relazioni, organizzazioni e tracciare reti di conoscenze che 
-permettano di costruire un diagramma del contesto in analisi. 
-Tramite la SOCial Media INTelligence è possibile reperire informazioni utili 
-al ciclo di intelligence tramite il monitoraggio e l’analisi dei contenuti 
-scambiati attraverso i Social Media. 
+In Social Media Intelligence (SOCMINT) you can monitor social networks and channels
+to identify profiles, relationships, organizations and trace knowledge networks that
+allow you to build a diagram of the context under analysis.
+Useful information can be found through SOcial Media INTelligence
+to the intelligence cycle through content monitoring and analysis
+exchanged through social media.
 dalchecco.it
 ```
 
-# Social Media 
+#Social Media
 
-|**Diffusi**|**ALTRI**|
+|**Popular**|**OTHER**|
 | :--- | :--- |
 |[**Facebook**](http://www.facebook.com/)|[**Facenama**](http://facenama.com/)|
 |[**Instagram**](https://www.instagram.com/)|[**Vk**](https://vk.com/)|
@@ -33,45 +33,46 @@ dalchecco.it
 ||[**Xing**](https://www.xing.com/)|
 ||[**Discordapp**](https://discordapp.com/invite/5pmK4TU)|
 
-# Strumenti di Ricerca Multi Social
+# Multi Social Search Tools
 
-![Immagine19](https://user-images.githubusercontent.com/98583912/207104384-0682decb-ab99-4b20-81f7-bde139e02c6f.gif)
+![Image19](https://user-images.githubusercontent.com/98583912/207104384-0682decb-ab99-4b20-81f7-bde139e02c6f.gif)
 
-|[**Social Blade**](https://socialblade.com/)|[**Hashatit**](https://www.hashatit.com/)|[**Social Searcher**](https://www.social-searcher.com/)|
+|[**Social Blade**](https://socialblade.com/)|[**Hashatit**](https://www.hashatit.com/)|[**Social Searcher**](https ://www.social-searcher.com/)|
 | :--- | :--- | :--- |
-|[**Social Bearing**](https://www.socialbearing.com/)|[**UVRX**](http://www.uvrx.com/social.html)|[**Rivaliq**](https://www.rivaliq.com/)|
-|[**Smat-App**](https://www.smat-app.com/timeline?searchTerm=election&startDate=2020-12-08&endDate=2021-01-08&websites=twitter&aggRedditBy=author&numberOf=10&interval=day&limit=1000&changepoint=false)|
+|[**Social Bearing**](https://www.socialbearing.com/)|[**UVRX**](http://www.uvrx.com/social.html)|[**Rivaliq* *](https://www.rivaliq.com/)|
+|[**Smat-App**](https://www.smat-app.com/timeline?searchTerm=election&startDate=2020-12-08&endDate=2021-01-08&websites=twitter&aggRedditBy=author&numberOf=10&interval=day&limit=1000&changepoint =false)|
 
-# **Strumenti Online**
+# **Online Tools**
 |![Facebook](https://user-images.githubusercontent.com/98583912/207092270-5aed3f23-cbf2-4a9d-873b-c8b961822166.gif)|**Facebook**|
 | :--- | :--- |
-|Ricerca tramite Social||
+|Search via Social||
 |[**Facebook**](https://www.facebook.com/browse/mutual_friends/?uid=4&node=5=)|**Facebook Mutual Friends (Modify Source UID & Node in URL**|
-|[**Facebook**](https://www.facebook.com/events/%3CeventID%3E/?active_tab=discussion=)|**Facebook Event (Modify eventID in URL)**| 
+|[**Facebook**](https://www.facebook.com/events/%3CeventID%3E/?active_tab=discussion=)|**Facebook Event (Modify eventID in URL)**|
 |[**Facebook**](https://www.facebook.com/search/videos/?q=Sydney&epa=FILTERS&filters=eyJ2aWRlb3Nfc291cmNlIjoie1wibmFtZVwiOlwidmlkZW9zX2xpdmVcIixcImFyZ3NcIjpcIlwifSJ9)|**Facebook Live Video Search (Modify search location)**|
 |[**Facebook**](https://www.facebook.com/watch)|**Facebook Live Video Search (Modify search location)**|
-|Altri Siti||
+|Other Sites||
 |[**Graph**](http://graph.tips/beta/)|**Facebook Report**|
-|[**Scan Dyno**](http://scan.dyno.vn/)|**Pubblici Informazioni**|
+|[**Scan Dyno**](http://scan.dyno.vn/)|**Public Information**|
 |[**Wolframalpha**](http://www.wolframalpha.com/input/?i=facebook+report)|**Facebook Report**|
-|[**Zesty.ca**](http://zesty.ca/facebook)|**Cosa pubblica Facebook su di te e sui tuoi amici?**|
+|[**Zesty.ca**](http://zesty.ca/facebook)|**What does Facebook post about you and your friends?**|
 |[**Pili App**](https://it.piliapp.com/facebook/id/)|**ID - Facebook**|
-|[**Lookup-ID**](https://lookup-id.com/)|ID Facebool|
+|[**Lookup-ID**](https://lookup-id.com/)|Facebool ID|
 
 |![Twitter](https://user-images.githubusercontent.com/98583912/207092653-275b2fa3-80e5-4fe1-b521-63374697423d.gif)|**Twitter**|
 | :--- | :--- |
-|Ricerca tramite Social||
-|[**Twitter**](https://twitter.com/search-advanced?lang=en)|**Ricerca Avanzata**|
-|[**Twitter**](http://search.twitter.com/)|**Ricerca su Twitter**|
+|Search via Social||
+|[**Twitter**](https://twitter.com/search-advanced?lang=en)|**Advanced Search**|
+|[**Twitter**](http://search.twitter.com/)|**Search Twitter**|
 
-|Altri Siti|||||
+|Other Sites|||||
 | :--- | :--- | :--- | :--- | :--- |
-|[**backtweets**](http://backtweets.com/)|**Ricerca con Twitter**||[**foller.me**](http://foller.me/)|**Twitter Analytics**|
-|[**Followerwonk**](http://followerwonk.com/)|**Twitter Analytics**||[**Gigatweeter**](http://gigatweeter.com/)|**Riceca tramite Hastag**|
-|[**Sleeping Time**](http://sleepingtime.org/)|**Report**||[**Spoonbill**](http://spoonbill.io/)|**Anai dei Profili Twitter**|
-|[**Trends24**](http://trends24.in/)|**Top Twtter Trending**||[**TWChat**](http://twchat.com/)|**Chat Room  con Tritter**|
-|[**TweetReports**](http://tweetreports.com/twitter-chat-schedule)|**Report Twitter**||[**Twiangulate**](http://twiangulate.com/search/)|**Twitter Rilevanti**|
-|[**"Tweet"delle tendenze**](http://twitterfall.com/)|**Twitter Tendenze**||[**Hashtags**](http://www.hashtags.org/)|**Ricerca per Hastag**|
+|[**backtweets**](http://backtweets.com/)|**Twitter Search**||[**foller.me**](http://foller.me/)|** Twitter Analytics** |
+|[**Followerwonk**](http://followerwonk.com/)|**Twitter Analytics**||[**Gigatweeter**](http://gigatweeter.com/)|**Search by Hastag **|
+|[**Sleeping Time**](http://sleepingtime.org/)|**Report**||[**Spoonbill**](http://spoonbill.io/)|**Anai from Profiles Twitter** |
+|[**Trends24**](http://trends24.in/)|**Top Twtter Trending**||[**TWChat**](http://twchat.com/)|**Chat Rooms with Tritter**|
+|[**TweetReports**](http://tweetreports.com/twitter-chat-schedule)|**Twitter Reports**||[**Twiangulate**](http://twiangulate.com/search/ )|**Relevant Twitters**|
+|[**"Trends"Tweet**](http://twitterfall.com/)|**Twitter Trends**||[**Hashtags**](http://www.hashtags.org/)
+|**Ricerca per Hastag**|
 |[**Twazzup**](http://www.twazzup.com/)|**Ricerca con Twitter**||[**TweetArchivist**](http://www.tweetarchivist.com/)|**Ricerca per Hastag**|
 |[**TweetStats**](http://www.tweetstats.com/)|**Twitter Stats**||[**twipho**](http://www.twipho.net/)|**Ricerca tramite Tweeter**|
 |[**Twitonomy**](http://www.twitonomy.com/)|**Ricerca tramite Tweeter**||[**Sentiment140**](http://www.twittersentiment.appspot.com/)|**Discover the Twitter**|
@@ -139,7 +140,8 @@ dalchecco.it
 
 # Ricerca da Terminale
 
-![Ddesktop](https://user-images.githubusercontent.com/98583912/207098364-6e100f13-90f2-49ca-aba4-ff507b19ec46.gif)
+![Ddesktop](https://user-images.githubusercontent.com/98583912/207098364-6
+e100f13-90f2-49ca-aba4-ff507b19ec46.gif)
 
 [**ISO per OSINT**](https://github.com/CScorza/DistroForensics#iso)
 
